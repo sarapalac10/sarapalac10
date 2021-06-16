@@ -7,8 +7,7 @@
 
 - 📫 Email me at **sara.palacio01@gmail.com**
 
-- ⚡ Fun fact: 
--  **Deep down I'm a geeky girl in a civil engeniering body.**
+- ⚡ Fun fact:  **Deep down I'm a geeky girl in a civil engeniering body.**
 
 
 <h3 align="left">Languages and Tools:</h3>
