@@ -3,7 +3,7 @@
 
 <h3 align="center">I'm a begginer programmer who loves to research at forums and social networks.</h3>
 
-- 🌱 I’m currently learning **JavaScript** and **PHP** and all the skills to become a really good and complete Developer, and in the future a Full Stack dev. 
+- 🌱 I’m currently learning **JavaScript** and **React Js** and all the skills to become a really good and complete Developer, and in the future a Full Stack dev. 
 
 - 📫 Email me at **sara.palacio01@gmail.com**
 
