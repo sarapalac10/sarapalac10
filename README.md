@@ -1,7 +1,7 @@
 <h1 align="center"> Hi everyone, I’m Sara! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 
-<h3 align="center">I'm a junior programmer who loves to research at forums and social networks.</h3>
+<h3 align="center">I'm a frontend programmer who loves to research at forums and social networks.</h3>
 
 - 🌱 I’m currently learning **JavaScript** and **React Js** and all the skills to become a really good and complete Developer, and in the future a Full Stack dev. 
 
